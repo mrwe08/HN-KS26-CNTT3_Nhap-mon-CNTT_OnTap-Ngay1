@@ -79,5 +79,5 @@ bai_lam_ngay1.env
 
 ## Tự chấm (điền sau khi có đáp án)
 
-- **Điểm tự chấm:** ..../100
-- **Lỗi mình đã mắc và cách sửa:**
+- **Điểm tự chấm:** 97/100
+- **Lỗi mình đã mắc và cách sửa:chưa có bản sao trong archive**
